@@ -135,6 +135,11 @@ ul {
   border: none;
   display: none;
   cursor: pointer;
+  padding: 6px 6px;
+  border-radius: 2px;
+}
+.nav-toggler:hover {
+  background-color: lightgray;
 }
 .nav-toggler.none {
   display: none;
